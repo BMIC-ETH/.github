@@ -18,7 +18,6 @@ Our research focuses on developing machine learning algorithms for medical image
             <img src="https://iili.io/2CnUX9a.png" alt="Representation Learning" width="200"/>
             <ul>
                 <li><a href="https://github.com/BMIC-ETH/cmf?tab=readme-ov-file">Canonical Manifold Flows (NeurIPS 2023)</a></li>
-                <li><a href="#">Paper Repository 2</a></li>
             </ul>
         </td>
     </tr>
