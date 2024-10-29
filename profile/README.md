@@ -76,3 +76,12 @@ Our research focuses on developing machine learning algorithms for medical image
         </td>
     </tr>
 </table>
+
+<p align="center">
+    <a href="http://ethz.ch">
+        <img src="https://i.ibb.co/Rjvbjdv/eth-logo-kurz-pos.png" alt="ETH Zurich" width="200"/>
+    </a>
+    <a href="https://bmic.ee.ethz.ch">
+        <img src="https://i.ibb.co/F7HpCGP/BMIC-LETTERS.jpg" alt="BMIC logo" width="200"/>
+    </a>
+</p>
