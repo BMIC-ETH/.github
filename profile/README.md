@@ -9,6 +9,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Semi-Supervised Learning</h3>
             <img src="https://iili.io/2CnUV8g.png" alt="Semi-Supervised Learning" width="150"/>
             <ul>
+                <li><a href="https://www.sciencedirect.com/science/article/pii/S136184152500252X">Learning to segment anatomy and lesions (MedIA 2025)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/task_driven_data_augmentation">Task-Driven Data Aug.(IPMI 2019)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/domain_specific_cl">Med Contrastive Learning (NeurIPS 2020)</a></li>
             </ul>
@@ -57,6 +58,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Anomaly Detection</h3>
             <img src="https://iili.io/2CnUlnV.png" alt="Anomaly Detection" width="150"/>
             <ul>
+                <li><a href="https://github.com/BMIC-ETH/anomalydino-dpmm">Clustering DINO Embeddings with DPMM (MICCAI 2025)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/task_agnostic_ood">Task Agnostic OOD</a></li>
                 <li><a href="https://github.com/BMIC-ETH/cAAE">cAAE (MIDL 2018)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/Unsupervised-Lesion-Detection-via-Image-Restoration-with-a-Normative-Prior">Image Restoration with Normative Prior (MIDL 2019)</a></li>
@@ -66,6 +68,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Computer-Aided Surgery</h3>
             <img src="https://iili.io/2CnU0MB.png" alt="Computer-Aided Surgery" width="150"/>
             <ul>
+                <li><a href="https://github.com/BMIC-ETH/conformal_instrument_trajectory">Connformal Forecasting for Surgical Instrument Trajectory(MICCAI 2025)</a></li>
                 <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-34048-2_9">Neurosurgical Guidance (IPMI 2023)</a></li>
             </ul>
         </td>
