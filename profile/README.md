@@ -9,7 +9,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Semi-Supervised Learning</h3>
             <img src="https://iili.io/2CnUV8g.png" alt="Semi-Supervised Learning" width="150"/>
             <ul>
-                <li><a href="https://www.sciencedirect.com/science/article/pii/S136184152500252X">Learning to segment anatomy and lesions (MedIA 2025)</a></li>
+                <li><a href="https://github.com/BMIC-ETH/L2SAL">Learning to segment anatomy and lesions (MedIA 2025)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/task_driven_data_augmentation">Task-Driven Data Aug.(IPMI 2019)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/domain_specific_cl">Med Contrastive Learning (NeurIPS 2020)</a></li>
             </ul>
@@ -25,6 +25,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Reconstruction</h3>
             <img src="https://iili.io/2CnUhAJ.png" alt="Reconstruction" width="150"/>
             <ul>
+                <li><a href="https://github.com/BMIC-ETH/intersliceMRI">Sampling budget optimization (MICCAI MLMI 2026)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/slices-to-3d-brain-vae">2D VAE to 3D MRI (MICCAI 2020)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/ddp_recon">DDP-Recon (IEEE TMI 2018)</a></li>
             </ul>
