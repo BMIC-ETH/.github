@@ -46,7 +46,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <img src="https://iili.io/2CnUYwx.md.png" alt="Foundation Models" width="150"/>
             <ul>
                 <li><a href="https://github.com/BMIC-ETH/VoxCor">Training free volumetric features for multimodal 3D medical image correspondence</a></li>
-                 <li><a href="https://github.com/BMIC-ETH/SS-Text-U">Semi-Supervised Few-Shot Adaptation of VLMs</a></li>
+                 <li><a href="https://github.com/BMIC-ETH/SS-Text-U">Semi-Supervised Few-Shot Adaptation of VLMs (MICCAI MEDAGI 2026)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/spatial-ar-dinov3-uad">Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection (MICCAI UNSURE 2026)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/Foundation-Models-for-Medical-Imagery">Modular Segmentation Framework</a></li>
             </ul>
