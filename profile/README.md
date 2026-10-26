@@ -25,7 +25,7 @@ Our research focuses on developing machine learning algorithms for medical image
             <h3>Reconstruction</h3>
             <img src="https://iili.io/2CnUhAJ.png" alt="Reconstruction" width="150"/>
             <ul>
-                <li><a href="https://github.com/BMIC-ETH/intersliceMRI">Sampling budget optimization (MICCAI MLMI 2026)</a></li>
+                <li><a href="https://github.com/BMIC-ETH/scalable-unrolled-mri">Sampling budget optimization (MICCAI MLMI 2026)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/slices-to-3d-brain-vae">2D VAE to 3D MRI (MICCAI 2020)</a></li>
                 <li><a href="https://github.com/BMIC-ETH/ddp_recon">DDP-Recon (IEEE TMI 2018)</a></li>
             </ul>
